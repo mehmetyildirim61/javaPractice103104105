@@ -14,6 +14,7 @@ public class Runner {
         MaasHesapla ali = new MaasHesapla();
 
         double alininMaasi=ali.netMaas(10000,20,170);
-        System.out.println("alininMaasi = " + alininMaasi);
+        System.out.println("alininMaasi = " + alininMaasi); //alininMaasi = 9100.0
+
     }
 }
